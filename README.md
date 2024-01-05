@@ -12,5 +12,5 @@
     - SNOW[[2]](https://www.jnlp.org/GengoHouse/snow/t15)[[3]](https://www.jnlp.org/GengoHouse/snow/t23): [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 ## 文献情報
-樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. ChatGPTの日本語生成能力の評価
+樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. ChatGPTの日本語生成能力の評価<br>
 自然言語処理, Vol.31, No.2, pp.xxx-xxx, June 2024.（to appear）
