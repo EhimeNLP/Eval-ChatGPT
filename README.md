@@ -7,7 +7,7 @@
 - ss_eval.csv: やさしい日本語コーパスSNOWにおける人手評価の結果です。
 
 ## ライセンス
-- 機械翻訳コーパスKFTT、やさしい日本語コーパスSNOWのライセンスはそれぞれ作成元に従います。
+- 機械翻訳コーパスKFTT、やさしい日本語コーパスSNOWの評価結果に関するライセンスはそれぞれ作成元に従います。
     - KFTT[[1]](https://www.phontron.com/kftt/index-ja.html): [Creative Commons Attribution-Share-Alike License 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
     - SNOW[[2]](https://www.jnlp.org/GengoHouse/snow/t15)[[3]](https://www.jnlp.org/GengoHouse/snow/t23): [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
