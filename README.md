@@ -13,5 +13,5 @@
 
 ## 文献情報
 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. ChatGPTの日本語生成能力の評価<br>
-自然言語処理, Vol.31, No.2, pp.349-373, June 2024. [PDF](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_349/_article/-char/ja)
+自然言語処理, Vol.31, No.2, pp.349-373, June 2024. [[PDF]](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_349/_article/-char/ja)
 
